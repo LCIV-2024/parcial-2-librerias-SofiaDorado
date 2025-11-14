@@ -58,5 +58,6 @@ public class ExternalBookService {
             throw new RuntimeException("Error al obtener el libro de la API externa: " + e.getMessage(), e);
         }
     }
+
 }
 
